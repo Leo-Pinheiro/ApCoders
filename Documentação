@@ -1,0 +1,107 @@
+   
+    Página Inicial
+         
+         Menu Superior
+         - Home (Página Inicial)
+         - Inquilinos
+         - Unidades
+         - Despesas
+        
+         
+    Cadastrar Inquilinos
+       
+          - Você pode cadastrar um inquilino indo em Inquilinos que irá aparecer para "Cadastrar Inquilinos" por meio de um menu dropdown.
+          - Dentro da página de cadastro, você pode escrever as informações nos campos.
+          - O campo de telefone só permite números e conforme você vai preenchendo ele coloca parenteses e traços.
+          - Você tem opção de salvar e cancelar
+          - Você não irá conseguir salvar se tiver algum campo não preenchido.
+          - Se você salvar irá aparecer lá no canto superior esquerdo "Inquilino salvo com Sucesso".
+          - Se você cancelar a tela de cadastro irá retirar todas as informações.
+          
+    Cadastrar Unidades
+          
+          - Você pode cadastrar uma unidade indo em Unidades que irá aparecer para "Cadastrar Unidades" por meio de um menu dropdown.
+          - Dentro da página de cadastro, você pode escrever as informações nos campos.
+          - Ao preencher o CEP ele irá puxar as informações da API do correio e irá preencher os outros campos.
+          - Caso se o CEP estiver errado irá aparecer a seguinte mensagem "CEP não encontrado".
+          - Você tem opção de salvar e cancelar
+          - Você não irá conseguir salvar se tiver algum campo não preenchido(com exceção do campo "complemento")
+          - Se você salvar irá aparecer lá no canto superior esquerdo "Unidade salva com Sucesso".
+          - Se você cancelar a tela de cadastro irá retirar todas as informações.
+          
+    Cadastrar Despesas
+          
+          - Você pode cadastrar uma despesa indo em despesas que irá aparecer para "Cadastrar Despesas" por meio de um menu dropdown.
+          - Dentro da página de cadastro, você pode escrever as informações nos campos.
+          - O campo de valor só permite números e conforme você vai preenchendo ele coloca os pontos e vírgulas.
+          - Você tem opção de salvar e cancelar
+          - Você não irá conseguir salvar se tiver algum campo não preenchido(com exceção do campo "descrição").
+          - Se você salvar irá aparecer lá no canto superior esquerdo "Despesa salva com Sucesso".
+          - Se você cancelar a tela de cadastro irá retirar todas as informações.
+     
+    Listar Inquilinos
+         
+         - Contém todos os inquilinos cadastrados.
+         - Você tem opção de editar e excluir.
+         
+    Listar Unidades
+         
+         - Contém todas as unidades cadastradas.
+         - Você tem opção de editar e excluir.
+         
+    Listar Despesas
+    
+         - Contém todas as despesas cadastradas.
+         - Você tem opção de editar e excluir.
+         
+    Editar Inquilinos
+    
+         - Para acessar a página de editar basta ir no lápis azul da lista de inquilinos.
+         - Na página de editar, você pode alterar todos os campos cadastrados.
+         - Você tem opção de salvar e cancelar 
+         - Se você salvar irá voltar para página da lista com o cadastramento editado.
+         - Se você cancelar irá voltar para página da lista sem nenhum cadastramento editado.
+         
+    Editar Unidades
+          
+         - Para acessar a página de editar basta ir no lápis azul da lista de unidades.
+         - Na página de editar, você pode alterar todos os campos cadastrados.
+         - Você tem opção de salvar e cancelar 
+         - Se você salvar irá voltar para página da lista com o cadastramento editado.
+         - Se você cancelar irá voltar para página da lista sem nenhum cadastramento editado.
+           
+     Editar Despesas
+         
+         - Para acessar a página de editar basta ir no lápis azul da lista de despesas.
+         - Na página de editar, você pode alterar todos os campos cadastrados.
+         - Você tem opção de salvar e cancelar 
+         - Se você salvar irá voltar para página da lista com o cadastramento editado.
+         - Se você cancelar irá voltar para página da lista sem nenhum cadastramento editado.
+           
+      Excluir Inquilinos
+      
+          - Para excluir você tem que clicar na lixeira vermelha.
+          - Quando você clicar irá aparecer a seguinte mensagem "Confirma a exclusão do Registro?".
+          - Você tem duas opções "sim" e "não".
+          - Se você clicar em "sim" todo seu cadastramento será excluido.
+          - Se você clicar em "não" irá voltar a página da lista.
+        
+        Excluir Unidades
+        
+          - Para excluir você tem que clicar na lixeira vermelha.
+          - Quando você clicar irá aparecer a seguinte mensagem "Confirma a exclusão do Registro?".
+          - Você tem duas opções "sim" e "não".
+          - Se você clicar em "sim" todo seu cadastramento será excluido.
+          - Se você clicar em "não" irá voltar a página da lista.  
+          
+       Excluir Despesas
+       
+          - Para excluir você tem que clicar na lixeira vermelha.
+          - Quando você clicar irá aparecer a seguinte mensagem "Confirma a exclusão do Registro?".
+          - Você tem duas opções "sim" e "não".
+          - Se você clicar em "sim" todo seu cadastramento será excluido.
+          - Se você clicar em "não" irá voltar a página da lista.
+          
+    
+          
+        
