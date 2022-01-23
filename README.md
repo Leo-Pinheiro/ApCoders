@@ -14,7 +14,7 @@ Baixar o Banco de Dados Postgres https://www.postgresql.org/download/
 
 Baixar o Dbeaver https://dbeaver.io/download/
 
-Baixar servidor Apache tom cat https://tomcat.apache.org/download-80.cgi Coloque a pasta do servidor no mesmo local que a pasta do netBeansProject
+Baixar servidor Apache tom cat https://tomcat.apache.org/download-80.cgi Coloque a pasta do servidor no mesmo local que está a pasta do netBeansProject
 
 Baixe o Projeto e coloque ele na pasta netBeansProject
 
